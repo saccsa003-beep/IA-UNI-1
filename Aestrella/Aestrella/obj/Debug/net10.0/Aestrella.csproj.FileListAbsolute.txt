@@ -1,0 +1,14 @@
+C:\Users\saccs\source\repos\Aestrella\Aestrella\bin\Debug\net10.0\Aestrella.exe
+C:\Users\saccs\source\repos\Aestrella\Aestrella\bin\Debug\net10.0\Aestrella.deps.json
+C:\Users\saccs\source\repos\Aestrella\Aestrella\bin\Debug\net10.0\Aestrella.runtimeconfig.json
+C:\Users\saccs\source\repos\Aestrella\Aestrella\bin\Debug\net10.0\Aestrella.dll
+C:\Users\saccs\source\repos\Aestrella\Aestrella\bin\Debug\net10.0\Aestrella.pdb
+C:\Users\saccs\source\repos\Aestrella\Aestrella\obj\Debug\net10.0\Aestrella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saccs\source\repos\Aestrella\Aestrella\obj\Debug\net10.0\Aestrella.AssemblyInfoInputs.cache
+C:\Users\saccs\source\repos\Aestrella\Aestrella\obj\Debug\net10.0\Aestrella.AssemblyInfo.cs
+C:\Users\saccs\source\repos\Aestrella\Aestrella\obj\Debug\net10.0\Aestrella.csproj.CoreCompileInputs.cache
+C:\Users\saccs\source\repos\Aestrella\Aestrella\obj\Debug\net10.0\Aestrella.dll
+C:\Users\saccs\source\repos\Aestrella\Aestrella\obj\Debug\net10.0\refint\Aestrella.dll
+C:\Users\saccs\source\repos\Aestrella\Aestrella\obj\Debug\net10.0\Aestrella.pdb
+C:\Users\saccs\source\repos\Aestrella\Aestrella\obj\Debug\net10.0\Aestrella.genruntimeconfig.cache
+C:\Users\saccs\source\repos\Aestrella\Aestrella\obj\Debug\net10.0\ref\Aestrella.dll

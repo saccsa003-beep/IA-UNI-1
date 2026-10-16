@@ -1,0 +1,7 @@
+C:\Users\saccs\source\repos\busqueda por achura\busqueda por achura\bin\Debug\busqueda por achura.exe.config
+C:\Users\saccs\source\repos\busqueda por achura\busqueda por achura\bin\Debug\busqueda por achura.exe
+C:\Users\saccs\source\repos\busqueda por achura\busqueda por achura\bin\Debug\busqueda por achura.pdb
+C:\Users\saccs\source\repos\busqueda por achura\busqueda por achura\obj\Debug\busqueda por achura.csproj.AssemblyReference.cache
+C:\Users\saccs\source\repos\busqueda por achura\busqueda por achura\obj\Debug\busqueda por achura.csproj.CoreCompileInputs.cache
+C:\Users\saccs\source\repos\busqueda por achura\busqueda por achura\obj\Debug\busqueda por achura.exe
+C:\Users\saccs\source\repos\busqueda por achura\busqueda por achura\obj\Debug\busqueda por achura.pdb

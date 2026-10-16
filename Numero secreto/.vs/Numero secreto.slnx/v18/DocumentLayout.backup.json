@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saccs\\source\\repos\\Numero secreto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D3B01A-C21D-4E96-AB6F-639BAC3E8236}|Numero secreto\\Numero secreto.csproj|c:\\users\\saccs\\source\\repos\\numero secreto\\numero secreto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D3B01A-C21D-4E96-AB6F-639BAC3E8236}|Numero secreto\\Numero secreto.csproj|solutionrelative:numero secreto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saccs\\source\\repos\\Numero secreto\\Numero secreto\\Program.cs",
+              "RelativeDocumentMoniker": "Numero secreto\\Program.cs",
+              "ToolTip": "C:\\Users\\saccs\\source\\repos\\Numero secreto\\Numero secreto\\Program.cs*",
+              "RelativeToolTip": "Numero secreto\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T14:06:57.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
